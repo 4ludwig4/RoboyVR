@@ -69,7 +69,7 @@ The following links can be seen as a guideline, of course you can do
 the research by yourself.
 
 - Unity provides a lot of tutorials for the editor and the API with code samples and videos: https://unity3d.com/de/learn/tutorials
-- The UnifyWiki has a lot of example scripts for all kind of extensions: http://wiki.unity3d.com/index.php/Main_Page
+- The UnityWiki has a lot of example scripts for all kind of extensions: http://wiki.unity3d.com/index.php/Main_Page
 - StackOverflow is a forum where you can search for answers regarding your coding problems: http://stackoverflow.com/
 - UnityAnswers, similar to StackOverflow but only for Unity specific questions. The community is not as active and most questions
   are really basic, so bear that in mind: http://answers.unity3d.com/
