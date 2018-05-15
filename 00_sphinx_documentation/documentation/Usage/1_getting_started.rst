@@ -6,7 +6,7 @@ Part 1: Run rosbridge and roboySimulation
 
 .. code:: bash
 
-  source path-to-roboy-ros-control/devel.setup.bash
+  source path-to-roboy-repo/devel/setup.bash
   roslaunch rosbridge_server rosbridge_websocket.launch
   rosrun roboy_simulation VRRoboy
   
